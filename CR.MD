@@ -3,7 +3,7 @@
 ## appogé d'etudiant:
 ## Classe:CAC2
   ---
-# Rapport d'Analyse Prédictive du PIB (Produit Intérieur Brut)
+## Rapport d'Analyse Prédictive du PIB (Produit Intérieur Brut)
 ---
 ##  Petit descriptif du jeu de donnees
 
@@ -112,17 +112,5 @@ Le **modèle de Régression par Arbre de Décision** est clairement le plus perf
 *   **Analyse des Résidus :** Examiner les erreurs de prédiction pour identifier des tendances non capturées par les modèles actuels, ce qui pourrait orienter vers de nouvelles caractéristiques ou transformations.
 *   **Intégration de Caractéristiques Supplémentaires :** Inclure d'autres indicateurs économiques ou sociaux pertinents si disponibles pour améliorer la capacité prédictive des modèles.
 
-## Comment Exécuter ce Projet
-
-1.  **Cloner le dépôt GitHub** :
-    ```bash
-    git clone <URL_DE_VOTRE_DEPOT>
-    cd <NOM_DE_VOTRE_DEPOT>
-    ```
-2.  **Installer les dépendances** :
-    ```bash
-    pip install pandas scikit-learn matplotlib seaborn numpy
-    ```
-3.  **Exécuter le notebook** Jupyter (`votre_notebook.ipynb`) pour reproduire l'analyse.
 
 ---
